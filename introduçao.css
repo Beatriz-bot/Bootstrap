@@ -1,0 +1,62 @@
+p{
+	font-family: Times New Roman;
+	color: #dd4569;
+	background-color:dodgerblue;
+}
+.teste{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-seri
+	color: #004178;
+	background-color: rgb(0,179,0);
+}
+#teste2{
+
+}
+h1{
+	font-family: Times New Roman;
+	color: #dd4569;
+	background-color:dodgerblue;
+} 
+body {
+	background-color:pink;
+}
+h3{
+    font-family: Times New Roman;
+	color: #dd4569;
+	background-color:dodgerblue;
+}
+.paragrafo{
+    font-family: Times New Roman;
+	color:black;
+	background-color:dodgerblue;
+}
+#h{
+    font-family: Times New Roman;
+	color: red;
+	background-color:brown;
+}
+.teste{
+    font-size: 2em;
+    font-style: italic;/*italico*/
+    font-weight: bold;/*negrito*/
+    font-style: normal;/*volta tudo ao normal*/
+    font-style: oblique;
+}
+.teste1{
+    text-align: center;
+    text-align: left;
+    text-align: right;
+    text-align: justify;
+}
+ .teste2{
+    text-decoration:underline;
+    text-decoration: line-through;
+    text-decoration: none;
+    text-decoration: overline;
+ }
+ .teste3{
+    text-transform: lowercase;
+    text-transform: uppercase;
+    text-transform: capitalize;
+    text-transform: none;
+    text-shadow: 10px 0 #111111
+ }
